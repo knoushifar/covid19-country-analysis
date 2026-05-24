@@ -44,7 +44,7 @@ covid19-country-analysis/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/covid19-country-analysis.git
+git clone https://github.com/knoushifar/covid19-country-analysis.git
 cd covid19-country-analysis
 ```
 
